@@ -39,7 +39,7 @@
 
 ### Check out my automation project for <a href="https://qa.guru">QA.GURU</a> 
 <a align="left" href="https://github.com/pushistyj-pushistik/airbnb_test_project" title="airbnb_test_project">
-  <img align="left" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=pushistyj-pushistik&repo=airbnb_test_project&theme=slateorange"></a>
+  <img align="center" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=pushistyj-pushistik&repo=airbnb_test_project&theme=slateorange"></a>
 
 <details>	
   <summary>Education</summary>
