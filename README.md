@@ -34,17 +34,18 @@
     <img src="https://starchenkov.pro/qa-guru/img/skills/Jira.svg" width="40" height="40"  alt="Jira"/>
 </a>
 
-#### My GitHub Stats  
+### My GitHub Stats  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pushistyj-pushistik&show_icons=true&theme=slateorange)
 
 ### Check out my automation project for <a href="https://qa.guru">QA.GURU</a> 
 <a align="left" href="https://github.com/pushistyj-pushistik/airbnb_test_project" title="airbnb_test_project">
   <img align="center" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=pushistyj-pushistik&repo=airbnb_test_project&theme=slateorange"></a>
 
+###
 <details>	
   <summary>Education</summary>
   <br>
-  <table width="100%" border='0'>
+  <table width="100%" border='3'>
     <tr>
         <td width="20%" align="center">
             <img src="https://user-images.githubusercontent.com/36373593/189880575-d8c2272f-d485-4a97-af4e-1ea079f625c6.png">
@@ -61,7 +62,7 @@
 <details>
  <summary>Work experience</summary>
   <br>
-  <table width="100%" border='0'>
+  <table width="100%" border='3'>
     <tr>
         <td width="20%" align="center">
             <img src="https://user-images.githubusercontent.com/36373593/189895960-64bc24d2-78de-42b8-bb35-2e3f283b40ba.png">
@@ -72,7 +73,7 @@
   </table>
   </br>
   <br>
-  <table width="100%" border='0'>
+  <table width="100%" border='3'>
     <tr>
         <td width="20%" align="center">
             <img src="https://vsefranshizi.ru/cms/cms-images/publication_item/0195/image/DGL_1_1827.jpg">
@@ -85,8 +86,8 @@
  </details>
  
 <details>	
-  <summary>Interests</summary>
-  <br width="100%" border='0'>
+  <summary>Hobby</summary>
+  <br width="100%" border='3'>
     <tr>
         <td width="30%" align="center">
             </td>:cat: :airplane: :earth_africa: :book: :film_strip: :video_game:
