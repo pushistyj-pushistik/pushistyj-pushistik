@@ -1,6 +1,6 @@
-<h1 align="center">Hi there 
+<h1 align="left">Hi there 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">I'm a QA engineer for about 6 years</h3>
+<h3 align="left">I'm a QA engineer for about 6 years</h3>
 
 <details>	
   <summary>Education</summary>
