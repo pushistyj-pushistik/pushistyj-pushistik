@@ -89,7 +89,7 @@
   <summary>Hobby</summary>
   <br width="100%" border='3'>
     <tr>
-        <td width="50%" align="center">
+        <td width="70%" align="center">
             </td>:cat: :airplane: :earth_africa: :book: :film_strip: :video_game:
      </tr>
  </br>
