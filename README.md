@@ -3,7 +3,7 @@
 <h3 align="left">I'm a QA engineer for about 6 years</h3>
 
 ### Tools
-<p  align="center">
+<p align="center">
 <img width="40" title="Java" src="images/logo/Java.svg">
 <img width="40" title="IntelliJ IDEA" src="images/logo/IntelliJIDEA.svg">
 <img width="40" title="Gradle" src="images/logo/Gradle.svg">
@@ -17,7 +17,7 @@
 <img width="6%" title="GitHub" src="images/logo/GitHub.svg">
 <img width="6%" title="GitHub" src="images/logo/Jira.svg">
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" height="40"  title="Git"/>
-
+</p>
 
 ### My GitHub Stats  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pushistyj-pushistik&show_icons=true&theme=slateorange)
@@ -68,7 +68,9 @@
   </br>
 
 #### Courses
-<img width="40" title="QAGURU_Diplom" src="images/doc/QAGURU_Diplom.png">
+<p align="center">
+<img title="QAGURU_Diplom" src="images/doc/QAGURU_Diplom.png">
+</p>
 
 #### Hobby 
   <br width="100%" border='3'>
