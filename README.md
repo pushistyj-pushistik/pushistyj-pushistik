@@ -4,19 +4,19 @@
 
 ### Tools
 <div>
-<img width="6%" title="Java" src="images/logo/Java.svg">
-<img width="6%" title="IntelliJ IDEA" src="images/logo/IntelliJIDEA.svg">
-<img width="6%" title="Gradle" src="images/logo/Gradle.svg">
-<img width="6%" title="JUnit5" src="images/logo/JUnit5.svg">
-<img width="6%" title="Selenide" src="images/logo/Selenide.svg">
-<img width="6%" title="RestAssured" src="images/logo/RestAssured.svg">
-<img width="6%" title="Selenoid" src="images/logo/Selenoid.svg">
-<img width="6%" title="Jenkins" src="images/logo/Jenkins.svg">
-<img width="6%" title="Allure Report" src="images/logo/Allure.svg">
-<img width="6%" title="Allure TestOps" src="images/logo/Allure_TO.svg">
-<img width="6%" title="GitHub" src="images/logo/GitHub.svg">
-<img width="6%" title="GitHub" src="images/logo/Jira.svg">
-<img width="8%" title="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+<img width="7%" title="Java" src="images/logo/Java.svg">
+<img width="7%" title="IntelliJ IDEA" src="images/logo/IntelliJIDEA.svg">
+<img width="7%" title="Gradle" src="images/logo/Gradle.svg">
+<img width="7%" title="JUnit5" src="images/logo/JUnit5.svg">
+<img width="7%" title="Selenide" src="images/logo/Selenide.svg">
+<img width="7%" title="RestAssured" src="images/logo/RestAssured.svg">
+<img width="7%" title="Selenoid" src="images/logo/Selenoid.svg">
+<img width="7%" title="Jenkins" src="images/logo/Jenkins.svg">
+<img width="7%" title="Allure Report" src="images/logo/Allure.svg">
+<img width="7%" title="Allure TestOps" src="images/logo/Allure_TO.svg">
+<img width="7%" title="GitHub" src="images/logo/GitHub.svg">
+<img width="7%" title="GitHub" src="images/logo/Jira.svg">
+<img width="7%" title="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
 </div>
 
 ### My GitHub Stats  
