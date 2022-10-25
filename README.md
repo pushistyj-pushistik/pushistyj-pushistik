@@ -3,7 +3,8 @@
 <h3 align="left">I'm a QA engineer for about 6 years</h3>
 
 ### Tools
-<img width="10%" title="Java" src="images/logo/Java.svg">
+<div>
+<img width="6%" title="Java" src="images/logo/Java.svg">
 <img width="6%" title="IntelliJ IDEA" src="images/logo/IntelliJIDEA.svg">
 <img width="6%" title="Gradle" src="images/logo/Gradle.svg">
 <img width="6%" title="JUnit5" src="images/logo/JUnit5.svg">
@@ -15,7 +16,8 @@
 <img width="6%" title="Allure TestOps" src="images/logo/Allure_TO.svg">
 <img width="6%" title="GitHub" src="images/logo/GitHub.svg">
 <img width="6%" title="GitHub" src="images/logo/Jira.svg">
-<img width="6%" title="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+<img width="8%" title="Git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
+</div>
 
 ### My GitHub Stats  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pushistyj-pushistik&show_icons=true&theme=slateorange)
