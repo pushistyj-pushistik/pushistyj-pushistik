@@ -20,10 +20,10 @@
 </div>
 
 ### My GitHub Stats  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pushistyj-pushistik&show_icons=true&theme=slateorange)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zsenchenko&show_icons=true&theme=slateorange)
 
 ### Check out my automation project for <a href="https://qa.guru">QA.GURU</a> 
-<a align="left" href="https://github.com/pushistyj-pushistik/airbnb_test_project" title="airbnb_test_project">
-  <img align="center" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=pushistyj-pushistik&repo=airbnb_test_project&theme=slateorange"></a>
+<a align="left" href="https://github.com/zsenchenko/airbnb_test_project" title="airbnb_test_project">
+  <img align="center" height="135" src="https://github-readme-stats.vercel.app/api/pin/?username=zsenchenko&repo=airbnb_test_project&theme=slateorange"></a>
 
  
